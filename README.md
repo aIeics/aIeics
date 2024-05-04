@@ -3,6 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aieics&label=Profile%20views&color=0e75b6&style=flat" alt="aieics" /> </p>
 
+<table align="center">
+  <tr>
+    <td>
+		<a href="https://discord.com/users/518505493338128425" target="_blank" rel="nofollow">
+			<img src="https://lanyard-profile-readme.vercel.app/api/518505493338128425?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+		</a>
+    </td>
+  </tr>
+</table>
+
+
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://alx.ovh/](https://alx.ovh/)
