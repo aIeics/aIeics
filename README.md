@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm alx</h1>
 <h3 align="center">A passionate frontend developer from Romani</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aieics&label=Profile%20views&color=0e75b6&style=flat" alt="aieics" /> </p>
-
 <table align="center">
   <tr>
     <td>
@@ -13,6 +11,7 @@
   </tr>
 </table>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aieics&label=Profile%20views&color=0e75b6&style=flat" alt="aieics" /> </p>\
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
