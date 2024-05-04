@@ -11,8 +11,7 @@
   </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aieics&label=Profile%20views&color=0e75b6&style=flat" alt="aieics" /> </p>\
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aieics&label=Profile%20views&color=0e75b6&style=flat" alt="aieics" /> </p>
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://alx.ovh/](https://alx.ovh/)
