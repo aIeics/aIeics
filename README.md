@@ -29,11 +29,11 @@ All of my projects are available on [my website](https://alx.ovh/). Feel free to
 You can reach me at **me@alx.ovh** or via the channels below:
 
 <p align="left">
-  <a href="https://instagram.com/alx.ovh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alx.ovh" height="30" width="40" />
+  <a href="https://discord.com/users/518505493338128425" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>
-  <a href="https://discord.com/users/518505493338128425" target="blank">
-    <img align="center" src="https://i.imgur.com/sXtpP5B.png" alt="aleics" height="30" width="40" />
+  <a href="https://instagram.com/alx.ovh" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
