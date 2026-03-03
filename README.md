@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=80&lines=%E2%9C%A6+Welcome+to+my+Realm+%E2%9C%A6;%E2%80%9CCode+is+my+grimoire%E2%80%9D;%E2%9C%A6+Enter+if+you+Dare+%E2%9C%A6" alt="Typing SVG" />
 
-[![Visitors](https://komarev.com/ghpvc/?username=aIeics&style=for-the-badge&color=black&label=SOULS+VISITED)](https://github.com/YOUR_USERNAME)
+[![Visitors](https://komarev.com/ghpvc/?username=aIeics&style=for-the-badge&color=black&label=SOULS+VISITED)](https://github.com/aIeics)
 
 </div>
 
