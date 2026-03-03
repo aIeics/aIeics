@@ -71,11 +71,6 @@ class Developer {
 
 <br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aIeics&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&border_radius=0"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIeics&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&border_radius=0"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aIeics&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&dates=444444&stroke=333333" alt="streak" />
 
 </div>
